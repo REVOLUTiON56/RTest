@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RTest
+namespace RTest.Core
 {
     class Program
     {
